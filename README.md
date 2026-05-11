@@ -25,5 +25,3 @@ This project helped strengthen practical skills in:
 * Business Insight Generation
 * Data Visualization
 * Problem Solving using Real-world Data
-
-  Create README.md
